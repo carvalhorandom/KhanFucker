@@ -32,8 +32,8 @@ javascript:fetch("https://tinyurl.com/KhanFucker").then(t=>t.text()).then(eval);
 </details>
 
 <details>
-  <summary><strong>🏆┃CRÉDITOS</strong></summary>
-<br> "DARKMOD"
+  <summary><strong>🏆┃CRÉDITOS→darkmod</strong></summary>
+<br>
 
 <h4 align="left">🌿┃Niximkk</h4>
 O codigo inteiro do KhanFucker é o <a href="https://github.com/Niximkk/Khanware">Khanware</a>, eu apenas adicionei as minhas modificações!
